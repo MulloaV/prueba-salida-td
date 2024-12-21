@@ -8,7 +8,7 @@
       flat
       tile
       width="100%"
-      class="deep-orange darken-4 text-center"
+      class="black darken-4 text-center"
     >
       <v-card-text>
         <v-btn
@@ -23,7 +23,7 @@
         </v-btn>
       </v-card-text>
 
-      <v-divider></v-divider>
+
 
       <v-card-text class="white--text pt-0">
         <v-row justify="center" class="mb-2">
@@ -40,11 +40,11 @@
           </v-btn>
         </v-row>
         
-        <div>Everto: esto es un footer no funcional, ya que, la prueba pidió mockup solamente, las rutas del footer las dejé todas al incio de la app </div>
+        <div>Everto: esto es un footer no funcional, ya que, la prueba pidió mockup solamente, las rutas del footer las dejé todas al inicio de la app </div>
         
         <v-row justify="center" class="mt-4">
           <span>&copy; {{ new Date().getFullYear() }} — </span>
-          <strong class="ml-1">Pizza App</strong>
+          <strong class="ml-1">Seba Ulloa</strong>
         </v-row>
       </v-card-text>
     </v-card>

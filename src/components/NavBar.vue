@@ -1,7 +1,7 @@
 <template>
-  <v-app-bar app color="deep-orange darken-4" dark>
+  <v-app-bar app color="black darken-4" dark>
     <v-toolbar-title class="text-uppercase font-weight-bold">
-      Pizza Shop
+      La Gran Pizzeria de TD 
     </v-toolbar-title>
 
     <v-spacer></v-spacer>

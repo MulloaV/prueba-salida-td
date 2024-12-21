@@ -2,13 +2,13 @@
   <v-container>
     <v-row class="mb-8">
       <v-col cols="12" class="text-center">
-        <h1 class="text-h3 font-weight-bold deep-orange--text text--darken-3 mb-2">
-          <v-icon large color="deep-orange darken-2" class="mr-3">mdi-pizza</v-icon>
-          Nuestras Pizzas
+        <h1 class="text-h3 font-weight-bold black--text text--darken-3 mb-2">
+          <v-icon large color="black darken-2" class="mr-3">mdi-pizza</v-icon>
+          Las Terribles Pizzas
         </h1>
-        <v-divider class="mx-auto my-4" width="100" color="deep-orange"></v-divider>
+        <v-divider class="mx-auto my-4" width="100" color="black"></v-divider>
         <p class="text-subtitle-1 grey--text text--darken-1">
-          Descubre nuestra selección de deliciosas pizzas artesanales
+          Acá podrás ver las mejores pizzas de la cuadra.
         </p>
       </v-col>
     </v-row>

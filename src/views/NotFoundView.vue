@@ -23,12 +23,10 @@
         </v-img>
         
         <h1 class="text-h3 mb-2 deep-orange--text text--darken-4">¡Oops!</h1>
-        <h2 class="text-h5 mb-4 grey--text text--darken-1">
-          La página que buscas no existe
+        <h2 class="mb-6 grey--text text--darken-2">
+          El genio creativo no tiene la pizza que buscas. ¿Qué tal si te animas con una del menú?
         </h2>
-        <p class="mb-6 grey--text text--darken-2">
-          Parece que esta pizza se perdió en el horno. ¿Qué tal si volvemos al menú principal?
-        </p>
+       
         <v-btn
           color="deep-orange darken-4"
           dark
