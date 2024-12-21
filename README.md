@@ -20,12 +20,12 @@ Una aplicación web moderna para ordenar pizzas, construida con Vue.js y Vuetify
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MulloaV/prueba-salida-td.git
 ```
 
 2. Navega al directorio del proyecto:
 ```bash
-cd db-prep
+cd prueba-salida-td
 ```
 
 3. Instala las dependencias:
@@ -75,13 +75,6 @@ src/
   - Ver subtotales y total
   - Simulación de checkout
 
-## Contribuir
-
-1. Haz un Fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## Notas
 
